@@ -1,8 +1,8 @@
-A simple crypto price tracker for the top 100 cryptocurrencies
+#A simple crypto price tracker for the top 100 cryptocurrencies
 
-Technologies used: 
+##Technologies used: 
 - React JS
 - Axios API
 
-API source: 
+##API source: 
 - CoinGecko
